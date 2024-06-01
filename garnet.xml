@@ -19,7 +19,7 @@
     <project name="android_device_xiaomi_garnet-prebuilt" path="device/xiaomi/garnet-prebuilt" remote="org" revision="udc" />
 
     <!-- Other -->
-    <project name="android_hardware_xiaomi" path="hardware/xiaomi" remote="org" revision="lineage-21" />
+    <!--<project name="android_hardware_xiaomi" path="hardware/xiaomi" remote="org" revision="lineage-21" />-->
     <project name="proprietary_vendor_xiaomi_garnet-miuicamera" path="vendor/xiaomi/garnet-miuicamera" remote="sppidy" revision="lineage-21" />
 
 </manifest>
