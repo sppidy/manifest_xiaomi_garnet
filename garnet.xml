@@ -10,7 +10,7 @@
     <remote fetch="https://github.com/sppidy" name="sppidy" />
 
     <!-- Device -->
-    <project name="android_device_xiaomi_garnet" path="device/xiaomi/garnet" remote="sppidy" revision="udc" />
+    <project name="device_xiaomi_garnet" path="device/xiaomi/garnet" remote="sppidy" revision="udc" />
 
     <!-- Vendor -->
     <project name="android_vendor_xiaomi_garnet" path="vendor/xiaomi/garnet" remote="org" revision="udc" />
