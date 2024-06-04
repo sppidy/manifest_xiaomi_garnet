@@ -13,7 +13,7 @@
     <project name="device_xiaomi_garnet" path="device/xiaomi/garnet" remote="sppidy" revision="udc" />
 
     <!-- Vendor -->
-    <project name="android_vendor_xiaomi_garnet" path="vendor/xiaomi/garnet" remote="org" revision="udc" />
+    <project name="vendor_xiaomi_garnet" path="vendor/xiaomi/garnet" remote="sppidy" revision="udc" />
 
     <!-- Kernel -->
     <project name="android_device_xiaomi_garnet-prebuilt" path="device/xiaomi/garnet-prebuilt" remote="org" revision="udc" />
