@@ -8,7 +8,7 @@
     <remote fetch="https://github.com/Garnet-Playground" name="org" />
     <remote fetch="https://git.mainlining.org/adarshgrewal" name="adarsh" />
     <remote fetch="https://github.com/sppidy" name="sppidy" />
-    <remote fetch="https://github.com/JYRRC" name="jyr"
+    <remote fetch="https://github.com/JYRRC" name="jyr" />
     <!-- Device -->
     <project name="device_xiaomi_garnet" path="device/xiaomi/garnet" remote="sppidy" revision="droidx" />
 
