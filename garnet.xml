@@ -8,12 +8,12 @@
     <remote fetch="https://github.com/Garnet-Playground" name="org" />
     <remote fetch="https://git.mainlining.org/adarshgrewal" name="adarsh" />
     <remote fetch="https://github.com/sppidy" name="sppidy" />
-
+    <remote fetch="https://github.com/JYRRC" name="jyr"
     <!-- Device -->
-    <project name="device_xiaomi_garnet" path="device/xiaomi/garnet" remote="sppidy" revision="udc" />
+    <project name="device_xiaomi_garnet" path="device/xiaomi/garnet" remote="sppidy" revision="droidx" />
 
     <!-- Vendor -->
-    <project name="android_vendor_xiaomi_garnet" path="vendor/xiaomi/garnet" remote="sppidy" revision="udc" />
+    <project name="android_vendor_xiaomi_garnet" path="vendor/xiaomi/garnet" remote="jyr" revision="udc" />
 
     <!-- Kernel -->
     <project name="android_device_xiaomi_garnet-prebuilt" path="device/xiaomi/garnet-prebuilt" remote="org" revision="udc" />
