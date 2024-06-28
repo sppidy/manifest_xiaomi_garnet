@@ -13,10 +13,10 @@
     <project name="device_xiaomi_garnet" path="device/xiaomi/garnet" remote="sppidy" revision="droidx" />
 
     <!-- Vendor -->
-    <project name="android_vendor_xiaomi_garnet" path="vendor/xiaomi/garnet" remote="sppidy" revision="udc" />
+    <project name="android_vendor_xiaomi_garnet" path="vendor/xiaomi/garnet" remote="sppidy" revision="main" />
 
     <!-- Kernel -->
-    <project name="android_device_xiaomi_garnet-prebuilt" path="device/xiaomi/garnet-prebuilt" remote="org" revision="udc" />
+<!--     <project name="android_device_xiaomi_garnet-prebuilt" path="device/xiaomi/garnet-prebuilt" remote="org" revision="udc" /> -->
 
     <!-- Other -->
     <!--<project name="android_hardware_xiaomi" path="hardware/xiaomi" remote="org" revision="lineage-21" />-->
