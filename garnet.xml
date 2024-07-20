@@ -16,7 +16,7 @@
     <project name="vendor_xiaomi_garnet" path="vendor/xiaomi/garnet" remote="sppidy" revision="main" />
 
     <!-- Kernel -->
-    <project name="android_device_xiaomi_garnet-prebuilt" path="device/xiaomi/garnet-prebuilt" remote="sppidy" revision="udc" />
+    <project name="device_xiaomi_garnet-prebuilt" path="device/xiaomi/garnet-prebuilt" remote="sppidy" revision="udc" />
 
     <!--keys-->
     <project name="priv-keys" path="vendor/keys" remote="sppidy" revision="main" />
