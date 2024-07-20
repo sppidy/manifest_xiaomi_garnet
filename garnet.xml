@@ -19,7 +19,7 @@
     <project name="android_device_xiaomi_garnet-prebuilt" path="device/xiaomi/garnet-prebuilt" remote="sppidy" revision="udc" />
 
     <!--keys-->
-    <project name="priv-keys" path="vendor/keys" remote="sppidy" revision="main">
+    <project name="priv-keys" path="vendor/keys" remote="sppidy" revision="main" />
     
     <!-- Other -->
     <project name="android_hardware_xiaomi" path="hardware/xiaomi" remote="sppidy" revision="lineage-21" />
