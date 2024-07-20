@@ -10,16 +10,19 @@
     <remote fetch="https://github.com/sppidy" name="sppidy" />
     <remote fetch="https://github.com/JYRRC" name="jyr" />
     <!-- Device -->
-    <project name="device_xiaomi_garnet" path="device/xiaomi/garnet" remote="sppidy" revision="droidx" />
+    <project name="device_xiaomi_garnet" path="device/xiaomi/garnet" remote="sppidy" revision="leaf" />
 
     <!-- Vendor -->
-    <project name="android_vendor_xiaomi_garnet" path="vendor/xiaomi/garnet" remote="sppidy" revision="main" />
+    <project name="vendor_xiaomi_garnet" path="vendor/xiaomi/garnet" remote="sppidy" revision="main" />
 
     <!-- Kernel -->
-<!--     <project name="android_device_xiaomi_garnet-prebuilt" path="device/xiaomi/garnet-prebuilt" remote="org" revision="udc" /> -->
+    <project name="android_device_xiaomi_garnet-prebuilt" path="device/xiaomi/garnet-prebuilt" remote="sppidy" revision="udc" />
 
+    <!--keys-->
+    <project name="priv-keys" path="vendor/keys" remote="sppidy" revision="main">
+    
     <!-- Other -->
-    <!--<project name="android_hardware_xiaomi" path="hardware/xiaomi" remote="org" revision="lineage-21" />-->
+    <project name="android_hardware_xiaomi" path="hardware/xiaomi" remote="sppidy" revision="lineage-21" />
     <project name="proprietary_vendor_xiaomi_garnet-miuicamera" path="vendor/xiaomi/garnet-miuicamera" remote="sppidy" revision="main" />
 
 </manifest>
