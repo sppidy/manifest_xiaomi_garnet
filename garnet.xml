@@ -23,6 +23,6 @@
     
     <!-- Other -->
     <project name="android_hardware_xiaomi" path="hardware/xiaomi" remote="sppidy" revision="lineage-21" />
-    <project name="proprietary_vendor_xiaomi_garnet-miuicamera" path="vendor/xiaomi/garnet-miuicamera" remote="sppidy" revision="main" />
+    <!--<project name="proprietary_vendor_xiaomi_garnet-miuicamera" path="vendor/xiaomi/garnet-miuicamera" remote="sppidy" revision="main" />-->
 
 </manifest>
